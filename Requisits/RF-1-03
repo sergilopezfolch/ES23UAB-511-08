@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-1-03
+
+### Type/Category:
+Funcional / Gestió de Comptes
+
+### Version: 
+1.0
+
+### Title: 
+Validació de credencials d'usuari
+
+### Description: 
+El sistema haurà de validar que el nom d'usuari tingui un mínim de 5 caràcters i no estigui repetit en el sistema. Pel que fa a la contrasenya, se sol·licitarà un mínim de 8 caràcters, essent imprescindible que contingui dues lletres majúscules i almenys dos caràcters especials.
+
+### Relations: 
+RF-1-01, RF-1-02
+
+### Comments: 
+(pending)

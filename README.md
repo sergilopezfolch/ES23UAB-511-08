@@ -7,7 +7,8 @@ QueMenges és una plataforma innovadora que permet als usuaris accedir a menús 
 * Membre 1: Sergi López Folch - Scrum Master
 * Membre 2: Daniel Ortega Monterroso
 * Membre 3: Pau Murcia K'ros
-* Membre 3: Marsal Giró Ausiró 
+* Membre 4: Marsal Giró Ausiró
+* Membre 5: Quim Rius Aparicio
 * Supervisor: Zakariae Majiouty Aouad
 ## Enllaços d'Interès
 * [Taulell de Trello](https://trello.com/invite/b/69aec0e915d9dd933ba72874/ATTI5551c7b8fbebe01b633bc42a9c441a9fC2F93D28/mi-tablero-de-trello)

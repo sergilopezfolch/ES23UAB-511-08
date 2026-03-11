@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-1-04
+
+### Type/Category:
+Funcional / Gestió de Comptes
+
+### Version: 
+1.0
+
+### Title: 
+Gestió de rols d'usuari
+
+### Description: 
+En el moment del registre, l'usuari haurà d'indicar el tipus de compte (rol) que vol crear: client, repartidor o cuiner. El sistema permetrà que un mateix usuari assumeixi els tres rols dins l'aplicació i podrà, en qualsevol moment, afegir o treure rols associats al seu compte.
+
+### Relations: 
+RF-1-01
+
+### Comments: 
+S'haurà de dissenyar la base de dades perquè la taula d'usuaris tingui relació N:M amb els rols.

@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-12
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Modificació de recepta (ingredients opcionals)
+
+### Description: 
+L'usuari podrà modificar la recepta del plat seleccionat eliminant aquells ingredients que l'autor hagi indicat com a opcionals.
+
+### Relations: 
+RF-2-11
+
+### Comments: 
+(pending)

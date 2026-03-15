@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-4-01
+
+### Type/Category:
+Funcional / Pagament
+
+### Version: 
+1.0
+
+### Title: 
+Pagament integrat a l'aplicació
+
+### Description: 
+El pagament de la comanda es realitzarà des de dins de la pròpia aplicació, permetent l'ús de targeta bancària o PayPal com a mètodes vàlids.
+
+### Relations: 
+RF-4-02
+
+### Comments: 
+(pending)

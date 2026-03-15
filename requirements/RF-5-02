@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-5-02
+
+### Type/Category:
+Funcional / Valoració
+
+### Version: 
+1.0
+
+### Title: 
+Impacte de la valoració en el posicionament
+
+### Description: 
+Les valoracions rebudes s'associaran al perfil del cuiner i s'utilitzaran com a factor clau per determinar la seva posició en els llistats de cerca (a millor valoració, posició més elevada).
+
+### Relations: 
+RF-5-01, RF-2-07
+
+### Comments: 
+(pending)

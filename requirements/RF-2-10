@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-10
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Reserva de comandes per a hores futures
+
+### Description: 
+El sistema permetrà que els clients reservin una comanda per a una hora específica en què el cuiner estigui marcat com a disponible.
+
+### Relations: 
+RF-2-09
+
+### Comments: 
+(pending)

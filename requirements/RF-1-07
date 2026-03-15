@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-1-07
+
+### Type/Category:
+Funcional / Gestió de Comptes
+
+### Version: 
+1.0
+
+### Title: 
+Definició d'adreça de recollida
+
+### Description: 
+Abans de poder realitzar una primera comanda, l'usuari haurà d'indicar obligatòriament la seva adreça de recollida de comandes.
+
+### Relations: 
+RF-3-01
+
+### Comments: 
+Aquesta dada és crítica per al càlcul de distàncies i costos d'enviament.

@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-07
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Ordenació per distància física
+
+### Description: 
+Independentment de l'opció de visualització triada, el sistema mostrarà les opcions ordenades segons la distància física entre el client i el cuiner.
+
+### Relations: 
+RF-2-05, RF-1-07
+
+### Comments: 
+(pending)

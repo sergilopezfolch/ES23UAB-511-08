@@ -1,7 +1,7 @@
 # Requirements Template
 
 ### ID: 
-RF-1-10
+RF-1-09
 
 ### Type/Category:
 Funcional / Gestió de Comptes
@@ -16,7 +16,7 @@ Unicitat del nom d'usuari
 El sistema ha de garantir que el nom d'usuari triat no estigui repetit dins del sistema.
 
 ### Relations: 
-RF-1-09
+RF-1-08
 
 ### Comments: 
 (pending)

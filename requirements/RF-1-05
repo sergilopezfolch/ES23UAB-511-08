@@ -1,7 +1,7 @@
 # Requirements Template
 
 ### ID: 
-RF-1-06
+RF-1-05
 
 ### Type/Category:
 Funcional / Gestió de Comptes
@@ -16,7 +16,7 @@ Modificació dinàmica de rols
 L'usuari pot, en qualsevol moment, afegir o treure rols associats al seu compte segons les seves necessitats.
 
 ### Relations: 
-RF-1-05
+RF-1-06
 
 ### Comments: 
 (pending)

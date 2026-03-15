@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-15
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Historial de comandes realitzades
+
+### Description: 
+Els clients podran consultar en qualsevol moment el llistat històric de totes les comandes que han realitzat anteriorment.
+
+### Relations: 
+RF-2-16
+
+### Comments: 
+(pending)

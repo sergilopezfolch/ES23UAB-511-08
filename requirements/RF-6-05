@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-6-05
+
+### Type/Category:
+Funcional / Funcionalitats Addicionals
+
+### Version: 
+1.0
+
+### Title: 
+Programa d'acumulació de punts
+
+### Description: 
+El client guanyarà punts de manera automàtica cada vegada que realitzi una comanda dins de l'aplicació.
+
+### Relations: 
+RF-6-04, RF-6-06
+
+### Comments: 
+(pending)

@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-3-02
+
+### Type/Category:
+Funcional / Enviament de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Càlcul dinàmic del cost d'enviament
+
+### Description: 
+El cost de l'enviament es calcularà automàticament en funció de la distància física entre la ubicació del cuiner i el lloc de recollida indicat pel client.
+
+### Relations: 
+RF-3-01, RF-2-07
+
+### Comments: 
+(pending)

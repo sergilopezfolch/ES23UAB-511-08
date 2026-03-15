@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-1-12
+
+### Type/Category:
+Funcional / Gestió de Comptes
+
+### Version: 
+1.0
+
+### Title: 
+Complexitat de la contrasenya
+
+### Description: 
+Per a la contrasenya és imprescindible usar dues majúscules i almenys dos caràcters especials.
+
+### Relations: 
+RF-1-11
+
+### Comments: 
+Es recomana implementar un validador en temps real durant el registre.

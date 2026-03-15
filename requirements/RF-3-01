@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-3-01
+
+### Type/Category:
+Funcional / Enviament de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Modalitats de recollida de comandes
+
+### Description: 
+L'aplicació ha d'oferir tres opcions diferents per a la recollida: l'ús de repartidors de l'aplicació, el lliurament per part del mateix cuiner o la recollida per part del client al domicili del cuiner.
+
+### Relations: 
+RF-3-02, RF-3-03
+
+### Comments: 
+(pending)

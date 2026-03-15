@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-4-03
+
+### Type/Category:
+Funcional / Pagament
+
+### Version: 
+1.0
+
+### Title: 
+Automatització d'ingressos a col·laboradors
+
+### Description: 
+Un cop confirmat el pagament, el sistema realitzarà automàticament l'ingrés corresponent al cuiner i al repartidor utilitzant els comptes bancaris associats als seus perfils.
+
+### Relations: 
+RF-4-01, RF-1-13
+
+### Comments: 
+(pending)

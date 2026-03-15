@@ -1,0 +1,22 @@
+# Requirements Template
+
+### ID: 
+RF-2-09
+
+### Type/Category:
+Funcional / Realització de Comandes
+
+### Version: 
+1.0
+
+### Title: 
+Estat de disponibilitat dels cuiners
+
+### Description: 
+Els cuiners poden aparèixer en el llistat com a "no disponibles", indicant l'hora en què podrien tornar a acceptar comandes.
+
+### Relations: 
+RF-2-10
+
+### Comments: 
+(pending)

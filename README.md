@@ -11,4 +11,4 @@ QueMenges és una plataforma innovadora que permet als usuaris accedir a menús 
 * Membre 5: Quim Rius
 * Supervisor: Zakariae Majiouty Aouad
 ## Enllaços d'Interès
-* [Taulell de Trello](https://trello.com/invite/b/69aec0e915d9dd933ba72874/ATTI5551c7b8fbebe01b633bc42a9c441a9fC2F93D28/mi-tablero-de-trello)
+* [Taulell de Trello](https://trello.com/invite/b/69b7203da57411cf93be6601/ATTI0befc800efb8e017484b907dd0137afcFBA6ACE1/sprint-1)

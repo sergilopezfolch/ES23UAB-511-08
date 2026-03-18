@@ -4,19 +4,19 @@
 RNF-02
 
 ### Type/Category:
-NO Funcional / Plataforma
+NO Funcional / Plataforma i Entorn 
 
 ### Version: 
-1.0
+1.1
 
 ### Title: 
-Multiplataforma Web i Mòbil
+Disponibilitat de servei Web i Mòbil
 
 ### Description: 
-L'aplicació ha de disposar d'una versió web i versions mòbils funcionals tant per a sistemes operatius Android com iOS.
+L'aplicació ha de ser accessible tant a través de navegadors web d'escriptori com mitjançant aplicacions per a dispositius mòbils per garantir que l'usuari pugui gestionar comandes des de qualsevol entorn.
 
 ### Relations: 
-Sense completar (pending)
+RNF-09
 
 ### Comments: 
-(pending)
+Aquest requisit garanteix l'accés universal a la plataforma QueMenges independentment del dispositiu d'entrada.

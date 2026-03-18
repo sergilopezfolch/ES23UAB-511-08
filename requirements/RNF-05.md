@@ -4,19 +4,19 @@
 RNF-05
 
 ### Type/Category:
-NO Funcional / Disseny Visual
+NO Funcional / Disseny Visual i Estètica
 
 ### Version: 
-1.0
+1.1
 
 ### Title: 
-Identitat visual corporativa
+Identitat visual i color corporatiu
 
 ### Description: 
-El color corporatiu de la plataforma serà el taronja i el logotip ha d'aparèixer en cadascuna de les pantalles de la interfície.
+L'aplicació ha d'utilitzar el taronja com a color corporatiu predominant en la seva interfície.
 
 ### Relations: 
-Sense completar (pending)
+RNF-10
 
 ### Comments: 
-(pending)
+Aquest requisit garanteix la coherència visual de la plataforma QueMenges.

@@ -13,7 +13,7 @@ NO Funcional / Rendiment
 Capacitat de concurrència d'usuaris
 
 ### Description: 
-En la fase inicial, l'aplicació ha de ser capaç de suportar un màxim de 1000 usuaris connectats de forma simultània amb temps de resposta màxim de 5 mil·lisegons un cop l'usuari realitza una petició.
+En la fase inicial, l'aplicació ha de ser capaç de suportar un màxim de 1000 usuaris connectats de forma simultània.
 
 ### Relations: 
 RNF-04
